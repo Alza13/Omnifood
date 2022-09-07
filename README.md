@@ -1,2 +1,2 @@
 # Omnifood
-https://Alza13.github.io/omnifood/
+https://alza13.github.io/Omnifood/
